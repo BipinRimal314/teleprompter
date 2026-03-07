@@ -1,0 +1,19 @@
+{
+  "name": "Teleprompter",
+  "short_name": "Prompter",
+  "description": "Markdown-native teleprompter. No account, no install, no limits.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
